@@ -1,0 +1,13 @@
+# IDE and Code Editor Stuff
+/.vs
+/.vscode
+/.idea
+/.dart_tool
+/linux
+/macos
+/test
+/web
+/windows
+
+# Build Dirs
+/build
